@@ -26,7 +26,7 @@ function draw() {
 
 function geraRecomendacao(idade, gostaDeFantasia, gostaDeAventura) {
   if (idade >= 10) {
-    if (idade >= 14) {
+    if (idade >= 15) {
       return "Deadpool";
     } else {
       if (idade >= 12) {
